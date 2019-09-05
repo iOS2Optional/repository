@@ -2,4 +2,4 @@ pwd
 
 echo "Hello World !"
 
-touch ../outpu/text.txt
+touch ../output/text.txt
